@@ -1,5 +1,4 @@
 # 💰 Controle de Gastos Pessoais em Java
----
 
 Este é um projeto simples desenvolvido em **Java (console)** com o objetivo de praticar os conceitos básicos da linguagem e Programação Orientada a Objetos (POO).
 
